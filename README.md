@@ -12,22 +12,6 @@ A versão final do código de cada sprint deverá estar na branch principal do r
 
 No fork de vocês, favor alterar este README para adicionar os links correspondentes para os seguintes itens:
 
-**Repositório de Backend**: https://github.com/PriAlves2761/back-integral-m05-desafio-t05
-
-**Repositório de Frontend**: https://github.com/PriAlves2761/front-integral-m05-desafio-t05
+**Repositório de Frontend**: https://github.com/tatimattos93/desafio-front-modulo-05
 
 **URL da aplicação funcionando**: https://devasfinancas.netlify.app
-
----
-
-E os itens abaixo, que deverão ser preenchidos apenas após a finalização de todas as sprints do projeto: 
-
-**Pull Request (PR) de Backend**: https://github.com/PriAlves2761/back-integral-m05-desafio-t05
-
-**Pull Request (PR) de Frontend**: https://github.com/PriAlves2761/front-integral-m05-desafio-t05
-
-Estes Pull Requests (PRs) deverão ser criados a partir da branch principal do fork correspondente de vocês daquela stack tendo como destino o repositório base da stack do desafio.
-
-Ou seja, o Pull Request de **BACKEND** deverá ser criado a partir do fork de vocês desse repositório aqui, com destino a este repositório aqui.
-
-E portanto o Pull Request de **FRONTEND** deverá ser criado a partir do fork de vocês do repositório base de FRONTEND desse desafio, com destino ao [repositório base de FRONTEND desse desafio](https://github.com/cubos-academy/front-integral-m05-desafio-t05).
